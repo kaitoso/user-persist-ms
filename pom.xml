@@ -23,7 +23,7 @@
 	</properties>
 
 	<dependencies>
-		<!-- Spring Boot Core (necesario para @SpringBootApplication, etc.) -->
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
